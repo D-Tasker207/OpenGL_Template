@@ -11,7 +11,7 @@
 int camX = 10, camY = 0, camZ = 0; //Camera position
 float camRot = 0;
 int camRotAmount = 5;
-int camMoveAmount = 2.5;
+int camMoveAmount = 2;
 
 // animation variables
 // TODO: add additional animation models
